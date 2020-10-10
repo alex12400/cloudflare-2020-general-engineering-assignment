@@ -1,1 +1,3 @@
-https://mydeployedworker.mydomain.com <- replace everything in this file with a single link to your deployed worker.
+https://summer-shadow-a06f.alexzhou123.workers.dev/
+
+Hi! I hope you guys are doing well. This project was fun!
